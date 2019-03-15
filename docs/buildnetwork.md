@@ -4,7 +4,7 @@
 
 Once you have built and instantiated your blockchain platform onto a Kubernetes cluster you should have this screen showing your IBP console.
 
-![Blockchain Console](../images/image01.png)
+![Blockchain Console](../images/image02.png)
 
 Once you have a running IBP v2 network you can go ahead and deploy a smart contract on the network by following [this tutorial](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-ibp-console-smart-contracts#ibp-console-smart-contracts).
 
