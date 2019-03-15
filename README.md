@@ -10,6 +10,13 @@ IBM Blockchain Platform is currently in free beta so this tutorial applies to th
 IBM Blockchain Platform v2 differs from v1 in that it is now deployed into Kubernetes clusters using the IBM Kubernetes Service (IKS). This is good news and bad news. Whilst you get far more control of the underlying container resources it also means you need a greater understanding of: Kubernetes, Docker (one of the container technologies that Kubernetes supports) as well as the IBM Cloud command line interface. The prerequisites step ensures you have all the tools and command lines you need to use these technologies.
 
 - [Step 0 - Install Prerequisites](docs/prereqs.md)
+- [Step 1 - Create IBM Cloud Services](docs/cloudservices.md)
+- [Step 2 - Build the Blockchain Network](docs/buildnetwork.md)
+- [Step 3 - Clone an Application Repo](docs/clonerepo.md)
+- [Step 4 - Package a Smart Contract](docs/packagesc.md)
+- [Step 5 - Deploy a Smart Contract to the  Network](docs/deploysc.md)
+- [Step 6 - Connect the Application to the Network](docs/connectnetwork.md)
+- [Step 7 - Run the Application](docs/runapp.md)
 
 If you have everything set up correctly you should see this screen showing information on your Kubernetes cluster...
 

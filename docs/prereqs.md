@@ -1,4 +1,4 @@
-# Step 0. Prerequisites
+# Step 0 - Prerequisites
 
 Here are some resources to help with that:
 
