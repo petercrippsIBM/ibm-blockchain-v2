@@ -17,13 +17,13 @@ You need to be quite careful about deploying to the right version of Kubernetes 
 Having ensured you have the prerequisites all set up you can proceed with the instructions for [Getting started with IBM Blockchain Platform free 2.0 beta](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-deploy-iks#ibp-v2-deploy-iks). This gets you as far as creating a Kubernetes cluster and deploying IBP v2 onto it.
 
 If you have everything set up correctly you should see this screen showing information on your Kubernetes cluster...
-![image01](../images/image01.png "Kubernetes Cluster")
+![Kubernetes Cluster](../images/image01.png)
 
 ...and this screen showing your IBP console.
-![image02](../images/image01.png "Blockchain Console")
+![Blockchain Console](../images/image01.png )
 
 You are now ready to build a blockchain network which you can do by following [this tutoria](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-ibp-console-build-network#ibp-console-build-network). At the end of this you should have a network that resembles the one in the diagram below.
-![image03](../images/image03.png "Kubernetes Cluster")
+![Kubernetes Cluster](../images/image03.png)
 
 Once you have a running IBP v2 network you can go ahead and deploy a smart contract on the network by following [this tutorial](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-ibp-console-smart-contracts#ibp-console-smart-contracts).
 
