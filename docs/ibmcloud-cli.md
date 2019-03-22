@@ -15,6 +15,15 @@ _To target Cloud Foundry org/space interactively._
 _Target the IBM Cloud Container Service <region> (e.g. `us-south`) in which you want to work._
 `$ ibmcloud ks region-set <region>`
 
+_Check which region you are in._
+`$ ibmcloud ks region`
+
+_Create a cluster._
+`$ ibmcloud ks cluster-create --name <cluster-name>`
+
+_Check the status of your clusters._
+`$ ibmcloud ks clusters`
+
 _Set the environment variable and download the Kubernetes configuration files. When the download of the configuration files is finished, a command is displayed that you can use to set the path to the local Kubernetes configuration file as an environment variable._
 `$ ibmcloud ks cluster-config --cluster <cluster_name_or_ID>`
 

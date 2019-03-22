@@ -3,7 +3,7 @@ This tutorial shows you how to get started with the IBM Blockchain Platform vers
 
 ![Tutorial Steps](images/tutorial-steps.png)
 
-This tutorial does _not_ cover the actual development of an application. There are various example applications that you can use and I'll suggest some you can deploy and where you can find them.
+This tutorial does _not_ cover the actual development of an application. There are various example applications that you can use and [later](docs/clonerepo.md) I'll suggest some you can deploy and where you can find them but for now this tutorial uses the [FabCar sample](https://github.com/IBM/fabcar-blockchain-sample.git).
 
 IBM Blockchain Platform is currently in free beta so this tutorial applies to that version. It will be updated as the platform moves to General Availabilty (GA).
 
